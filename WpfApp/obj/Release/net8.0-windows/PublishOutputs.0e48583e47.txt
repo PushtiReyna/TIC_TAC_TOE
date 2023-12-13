@@ -1,0 +1,5 @@
+C:\Users\Reyna\Desktop\WpfApp.exe
+C:\Users\Reyna\Desktop\WpfApp.dll
+C:\Users\Reyna\Desktop\WpfApp.deps.json
+C:\Users\Reyna\Desktop\WpfApp.runtimeconfig.json
+C:\Users\Reyna\Desktop\WpfApp.pdb
