@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KXwH4Cd0CL0pEQford+YZMZW4c2/EwMdugCP3yg8aLwsLsh3bW+wixh4EIWWdDv3O+EGqnnQ/WjbgHQH0XztSA==",
+  "success": true,
+  "projectFilePath": "D:\\project\\TIC_TAC_TOE_WPF\\TIC_TAC_TOE_WPF\\WpfApp\\WpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reyna\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Reyna\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\Reyna\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\Reyna\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

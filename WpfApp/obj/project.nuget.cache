@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fR1THtQ0L+GprNsAhHL8PmAN9NSbl922WGZXLHLt7VreBLIgqOA102DuXwXaZKrhzywzhGho29p59zLNqYF6Vw==",
+  "dgSpecHash": "XO2K6dL7RaSKN3u1kYM/TCJAeqqrBodnRU9dwYD862lEj4vNaGeeTe5b1b0aj4tlAa7tRsYn0tKqOpBwDT1RIg==",
   "success": true,
-  "projectFilePath": "D:\\project\\WpfApp\\WpfApp.csproj",
+  "projectFilePath": "D:\\project\\TIC_TAC_TOE_WPF\\TIC_TAC_TOE_WPF\\WpfApp\\WpfApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

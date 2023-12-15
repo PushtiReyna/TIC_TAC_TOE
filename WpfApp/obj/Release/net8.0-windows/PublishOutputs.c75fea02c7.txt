@@ -1,0 +1,5 @@
+D:\project\TIC_TAC_TOE_WPF\TIC_TAC_TOE_WPF\WpfApp\bin\Release\net8.0-windows\publish\WpfApp.exe
+D:\project\TIC_TAC_TOE_WPF\TIC_TAC_TOE_WPF\WpfApp\bin\Release\net8.0-windows\publish\WpfApp.dll
+D:\project\TIC_TAC_TOE_WPF\TIC_TAC_TOE_WPF\WpfApp\bin\Release\net8.0-windows\publish\WpfApp.deps.json
+D:\project\TIC_TAC_TOE_WPF\TIC_TAC_TOE_WPF\WpfApp\bin\Release\net8.0-windows\publish\WpfApp.runtimeconfig.json
+D:\project\TIC_TAC_TOE_WPF\TIC_TAC_TOE_WPF\WpfApp\bin\Release\net8.0-windows\publish\WpfApp.pdb

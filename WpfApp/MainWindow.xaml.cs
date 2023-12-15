@@ -18,7 +18,6 @@ namespace WpfApp
     public partial class MainWindow : Window
     {
         int turn = 1;
-        int i, j;
         public MainWindow()
         {
             InitializeComponent();
@@ -54,13 +53,14 @@ namespace WpfApp
             {
                 if (btnContent == "O")
                 {
-                    MessageBox.Show("PLAYER O WINS");
+                    MessageBox.Show("PLAYER NO. 1 WINS");
                 }
                 else if (btnContent == "X")
                 {
-                    MessageBox.Show("PLAYER X WINS");
+                    MessageBox.Show("PLAYER NO. 2 WINS");
                 }
                 disablebuttons();
+                ClearGame();
             }
             else
             {
@@ -70,6 +70,7 @@ namespace WpfApp
                         return;
                 }
                 MessageBox.Show("GAME OVER NO ONE WINS");
+                ClearGame();
             }
         }
         private void disablebuttons()
@@ -105,6 +106,14 @@ namespace WpfApp
             turn += 1;
             if (turn > 2)
                 turn = 1;
+        }
+        private void ClearGame()
+        {
+            foreach (Button btn in wrapPanel1.Children)
+            {
+                btn.Content = "";
+                btn.IsEnabled = true;
+            }
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\WpfApp\\WpfApp.csproj",
+      "projectUniqueName": "D:\\project\\TIC_TAC_TOE_WPF\\TIC_TAC_TOE_WPF\\WpfApp\\WpfApp.csproj",
       "projectName": "WpfApp",
-      "projectPath": "D:\\project\\WpfApp\\WpfApp.csproj",
+      "projectPath": "D:\\project\\TIC_TAC_TOE_WPF\\TIC_TAC_TOE_WPF\\WpfApp\\WpfApp.csproj",
       "packagesPath": "C:\\Users\\Reyna\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\WpfApp\\obj\\",
+      "outputPath": "D:\\project\\TIC_TAC_TOE_WPF\\TIC_TAC_TOE_WPF\\WpfApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Reyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
